@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bhaveshbadhe
-- 👀 I’m interested in User Interface Designing.
-- 🌱 I’m currently learning Ui/Ux Designing.
+- 👀 I’m interested in User Interface Designing and Database Development.
 - 💞️ I’m looking to collaborate on Designing App or Website.
 - 📫 How to reach me, Email:- badhebhavesh0706@gmail.com
 
