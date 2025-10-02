@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhavesh Badhe  
 
-🎓 Final Year B.Tech IT Student | Cybersecurity & Networking Professional | Software Tester  
+🎓 Final Year B.Tech IT Student | Cybersecurity & Networking Professional | Penetration Testing | Ethical Hacking
 
 I’m in my **4th year of Information Technology at Manipal University Jaipur**.  
 My journey has been focused on **cybersecurity, networking, and software testing**, with hands-on experience in **SDN, penetration testing, and automation**. I enjoy building secure systems, testing applications, and exploring real-world use cases in IT.  
