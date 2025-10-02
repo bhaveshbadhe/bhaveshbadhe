@@ -54,6 +54,6 @@ Face Recognition Attendance System – Automated attendance using Python, OpenCV
 
 📧 Email: badhebhavesh0706@gmail.com
 
-🔗 GitHub: bhaveshbadhe
+🔗 GitHub: [bhaveshbadhe](https://github.com/bhaveshbadhe)
 
-💼 LinkedIn: Bhavesh Badhe
+💼 LinkedIn: [Bhavesh Badhe](https://www.linkedin.com/in/bhavesh-badhe/)
